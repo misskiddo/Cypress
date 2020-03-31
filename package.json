@@ -1,0 +1,21 @@
+{
+  "name": "myfirstcypressproject",
+  "version": "1.0.0",
+  "description": "My first cypress project",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "Testing",
+    "Automation",
+    "Cypress"
+  ],
+  "author": "Toñi Cabrera",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.2.0",
+    "prettier": "^2.0.2"
+  }
+}
