@@ -1,5 +1,5 @@
 {
-  "name": "myfirstcypressproject",
+  "name": "myfirstcypress",
   "version": "1.0.0",
   "description": "My first cypress project",
   "main": "index.js",
@@ -15,7 +15,16 @@
   "author": "Toñi Cabrera",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^4.2.0",
+    "cypress": "^4.3.0",
     "prettier": "^2.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misskiddo/Cypress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/misskiddo/Cypress/issues"
+  },
+  "homepage": "https://github.com/misskiddo/Cypress#readme"
 }
